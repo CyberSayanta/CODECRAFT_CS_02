@@ -1,5 +1,3 @@
-# CODECRAFT_CS_02
-
 # 🖼️ Pixel-Based Image Encryption Tool
 
 ## 🔐 Task - 02: Pixel Manipulation for Image Encryption
