@@ -39,8 +39,7 @@ pip install pillow
 
 🚀 How to Use
 1. Clone the repository:
-git clone https://github.com/yourusername/pixel-image-encryption.git
-cd pixel-image-encryption
+https://github.com/CyberSayanta/CODECRAFT_CS_02.git
 
 2. Run the program:
 python image_cipher.py
